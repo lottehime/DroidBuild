@@ -1,8 +1,7 @@
 droidbuild
 ========
 
-Android Emulator Build Env & Build Script
-for PS Vita & ARM WebKit POC Approximation 
+Android Emulator Build Env & Build Script for PS Vita & ARM WebKit POC Approximation 
 -------
 Modification of env setup script by TEAM RADIUM (https://github.com/TeamRadium)
 Originally designed for setting up Android emulators for PS Vita WebKit POC work.

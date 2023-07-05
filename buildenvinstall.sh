@@ -14,7 +14,7 @@ clear
 
 
 if [ ${SKIP} = 1 ]; then
-  echo "Unattended installation. skipping pause..."
+  echo "Unattended installation. Skipping pause..."
 else
   read -p "Press [Enter] key to continue..."
 fi
@@ -30,7 +30,7 @@ fi
 cd ~/tr-be-script
 
 if [ ${SKIP} = 1 ]; then
-  echo "Unattended installation. skipping pause..."
+  echo "Unattended installation. Skipping pause..."
 else
   read -p "Press [Enter] key to continue..."
 fi

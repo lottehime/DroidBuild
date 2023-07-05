@@ -1,4 +1,4 @@
-droidbuild
+DroidBuild
 ========
 -------
 Android Emulator Build Env & Build Script for PS Vita & ARM WebKit POC Approximation 

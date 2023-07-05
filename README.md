@@ -15,6 +15,7 @@ Use
 ```
 to run the script in a mostly automated fashion.
 
+If you check the section of the script after the large comment block, you can change your target Android build and also change settings for parallelism.
 
 If you wish to change the make parallelism, or to change the target Android version you wish to build then head to the commented section in the bottom end of the script.
 Target versions can be found here: https://source.android.com/source/build-numbers.html

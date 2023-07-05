@@ -274,6 +274,10 @@ echo
 # for a faster build if you like. This was all done from
 # gutless VMs, so default is set to 4.
 #
+# This script is unlicensed, but I ask that you please
+# link back to me if you use it for a project that way
+# I can merge changes and know if it's helping people
+#
 #============================================================
 echo 
 repo init -u https://android.googlesource.com/platform/manifest -b android-4.0.1_r1

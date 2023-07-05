@@ -9,11 +9,7 @@ Originally designed for setting up Android emulators for PS Vita WebKit POC work
 Setup your machine or VM with Ubuntu 12.04 first.
 
 Run the script to setup and build a default image (4.0.1).
-Use
-```
-    --auto    
-```
-to run the script in a mostly automated fashion.
+Use `--auto` to run the script in a mostly automated fashion.
 
 If you check the section of the script after the large comment block, you can change your target Android build and also change settings for parallelism.
 
